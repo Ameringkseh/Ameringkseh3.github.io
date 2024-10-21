@@ -21,6 +21,10 @@ h1 {
     color: #2980b9;
 }
 
+.nav {
+    margin: -1em;
+}
+
 .profile {
     text-align: center;
     margin-bottom: 30px;
