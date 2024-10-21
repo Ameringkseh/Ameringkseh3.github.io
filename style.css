@@ -24,7 +24,7 @@ h1 {
 .nav {
     color: #fff;
     margin: -1em;
-    justify-content: start;
+    justify-items: start;
 }
 
 .profile {
